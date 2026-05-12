@@ -1,4 +1,4 @@
-# Alura_Visualizacao_de_dados_compara-o_distribui-o
+# Alura_Visualizacao_de_dados_comparacao_e_distribuicao
 
 # 📊 Data Visualization: Comparison & Distribution Charts
 
